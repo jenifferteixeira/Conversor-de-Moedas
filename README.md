@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="300" src="https://github.com/jenifferteixeira/natty-or-not/blob/main/assets-git/banner.png">
+    <img width="200" src="https://github.com/jenifferteixeira/natty-or-not/blob/main/assets-git/banner.png">
 </p>
 
 
@@ -25,6 +25,9 @@
 ## 🚀 Resultado
 
 Projeto com o objetivo de desenvolver uma página para converter moedas, de Real para Dólar, Euro, Libra ou Bitcoin.
+<p>
+    <img width="500" src="https://github.com/jenifferteixeira/Conversor-de-Moedas/blob/main/img/tela.JPG">
+</p>
 
   
 
